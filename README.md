@@ -1,4 +1,5 @@
-# Metronome-embedded: We simulated a metronome using Beaglebones LED
+# Metronome-embedded: 
+We simulated a metronome using Beaglebones LED
 ## Menu:
 z: Time signature 2/4 > 3/4 > 4/4 > 6/8 / 2/4 ...
 
